@@ -1,0 +1,102 @@
+[
+  {
+    "productType": "Cladding",
+    "title": "Natural Stone Wall Tile",
+    "size": "12x6 inch",
+    "shape": "Rectangle",
+    "color": "Beige",
+    "supplyAbility": "30000/month",
+    "minimumOrder": "500 units",
+    "productImage": "https://images.unsplash.com/photo-1600566753051-b6f5eb2c4b9c"
+  },
+  {
+    "productType": "Roof",
+    "title": "Curved Clay Roof Tile",
+    "size": "16x8 inch",
+    "shape": "Curved",
+    "color": "Red",
+    "supplyAbility": "25000/month",
+    "minimumOrder": "600 units",
+    "productImage": "https://images.unsplash.com/photo-1597597185651-7f75d378b739"
+  },
+  {
+    "productType": "Terracotta",
+    "title": "Traditional Terracotta Floor Tile",
+    "size": "12x12 inch",
+    "shape": "Square",
+    "color": "Terracotta",
+    "supplyAbility": "40000/month",
+    "minimumOrder": "800 units",
+    "productImage": "https://images.unsplash.com/photo-1582582420380-d8d88eb7a4d4"
+  },
+  {
+    "productType": "Cladding",
+    "title": "Slate Wall Cladding Tile",
+    "size": "24x6 inch",
+    "shape": "Rectangle",
+    "color": "Grey",
+    "supplyAbility": "20000/month",
+    "minimumOrder": "300 units",
+    "productImage": "https://images.unsplash.com/photo-1582582494700-d1d826670f3f"
+  },
+  {
+    "productType": "Roof",
+    "title": "Flat Ceramic Roof Tile",
+    "size": "15x10 inch",
+    "shape": "Flat",
+    "color": "Brown",
+    "supplyAbility": "27000/month",
+    "minimumOrder": "700 units",
+    "productImage": "https://images.unsplash.com/photo-1618221191528-0d1ce6112e57"
+  },
+  {
+    "productType": "Terracotta",
+    "title": "Handcrafted Terracotta Wall Tile",
+    "size": "10x10 inch",
+    "shape": "Square",
+    "color": "Rust",
+    "supplyAbility": "32000/month",
+    "minimumOrder": "500 units",
+    "productImage": "https://images.unsplash.com/photo-1582582481644-dfe91fdf6994"
+  },
+  {
+    "productType": "Cladding",
+    "title": "Textured Cladding Tile",
+    "size": "18x6 inch",
+    "shape": "Rectangle",
+    "color": "White",
+    "supplyAbility": "28000/month",
+    "minimumOrder": "400 units",
+    "productImage": "https://images.unsplash.com/photo-1625813153762-23239b284eb9"
+  },
+  {
+    "productType": "Roof",
+    "title": "S-Shaped Roof Tile",
+    "size": "14x8 inch",
+    "shape": "Curved",
+    "color": "Terracotta",
+    "supplyAbility": "35000/month",
+    "minimumOrder": "900 units",
+    "productImage": "https://images.unsplash.com/photo-1617634664515-3a15ad2e7159"
+  },
+  {
+    "productType": "Terracotta",
+    "title": "Rustic Terracotta Tile",
+    "size": "16x16 inch",
+    "shape": "Square",
+    "color": "Orange",
+    "supplyAbility": "30000/month",
+    "minimumOrder": "1000 units",
+    "productImage": "https://images.unsplash.com/photo-1574873669037-cb1585b1f4cc"
+  },
+  {
+    "productType": "Cladding",
+    "title": "Modern Wall Cladding Tile",
+    "size": "20x6 inch",
+    "shape": "Rectangle",
+    "color": "Charcoal",
+    "supplyAbility": "22000/month",
+    "minimumOrder": "350 units",
+    "productImage": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+  }
+]

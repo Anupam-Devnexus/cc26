@@ -1,0 +1,82 @@
+  [
+    {
+      "name": "Classic Red Brick",
+      "image": "https://images.pexels.com/photos/276514/pexels-photo-276514.jpeg",
+      "shape": "rectangle",
+      "color": "Red",
+      "type": "commercial",
+      "price": 10
+    },
+    {
+      "name": "Grey Square Paver",
+      "image": "https://images.pexels.com/photos/210158/pexels-photo-210158.jpeg",
+      "shape": "square",
+      "color": "Grey",
+      "type": "paver",
+      "price": 15
+    },
+    {
+      "name": "White Hollow Block",
+      "image": "https://images.unsplash.com/photo-1587202372775-8d3a9b3a9f1e",
+      "shape": "rectangle",
+      "color": "White",
+      "type": "hollow",
+      "price": 20
+    },
+    {
+      "name": "Red Residential Brick",
+      "image": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg",
+      "shape": "rectangle",
+      "color": "Red",
+      "type": "residential",
+      "price": 12
+    },
+    {
+      "name": "Large Grey Brick",
+      "image": "https://images.unsplash.com/photo-1602524812481-1e3c5e8e4f3b",
+      "shape": "rectangle",
+      "color": "Grey",
+      "type": "commercial",
+      "price": 18
+    },
+    {
+      "name": "White Square Paver",
+      "image": "https://images.pexels.com/photos/276514/pexels-photo-276514.jpeg",
+      "shape": "square",
+      "color": "White",
+      "type": "paver",
+      "price": 17
+    },
+    {
+      "name": "Hollow Red Block",
+      "image": "https://images.unsplash.com/photo-1587202372775-8d3a9b3a9f1e",
+      "shape": "rectangle",
+      "color": "Red",
+      "type": "hollow",
+      "price": 22
+    },
+    {
+      "name": "Grey Residential Brick",
+      "image": "https://images.pexels.com/photos/210158/pexels-photo-210158.jpeg",
+      "shape": "square",
+      "color": "Grey",
+      "type": "residential",
+      "price": 14
+    },
+    {
+      "name": "White Commercial Brick",
+      "image": "https://images.unsplash.com/photo-1602524812481-1e3c5e8e4f3b",
+      "shape": "rectangle",
+      "color": "White",
+      "type": "commercial",
+      "price": 19
+    },
+    {
+      "name": "Compact Red Paver",
+      "image": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg",
+      "shape": "square",
+      "color": "Red",
+      "type": "paver",
+      "price": 16
+    }
+  ]
